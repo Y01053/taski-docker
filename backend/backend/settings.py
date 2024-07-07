@@ -10,7 +10,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '158.160.74.206', '127.0.0.1', 'localhost', 'thisistaski.webhop.me'
-    ]
+]
 
 
 # Application definition
